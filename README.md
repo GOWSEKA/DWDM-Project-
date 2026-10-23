@@ -1,3 +1,5 @@
 # DWDM-Project-
 Epidemic Outbreak Dashboard
- https://gowseka.github.io/DWDM-Project-/
+🔗 **Live demo:** https://gowseka.github.io/DWDM-Project-/
+
+![QR code for dashboard](dashboard_qr.png)
